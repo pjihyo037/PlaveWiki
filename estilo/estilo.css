@@ -302,3 +302,31 @@ footer{
 
     color: gray;
 }
+
+/* Responsive */
+
+@media(max-width: 900px){
+
+    header{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    nav{
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .banner-texto h2{
+        font-size: 35px;
+    }
+
+    .banner-texto p{
+        width: 300px;
+    }
+
+    .members h2{
+        font-size: 40px;
+    }
+}
