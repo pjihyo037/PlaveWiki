@@ -330,35 +330,3 @@ footer{
         font-size: 40px;
     }
 }
-
-.card{
-    width: 170px;
-}
-
-.card img{
-    height: 220px;
-}
-
-.albums img{
-    width: 150px;
-}
-
-.about p{
-    width: 95%;
-}
-
-.about-plave p{
-    width: 95%;
-}
-
-.logo h1{
-    font-size: 20px;
-}
-
-nav a{
-    font-size: 16px;
-}
-
-iframe{
-    width: 100%;
-}
